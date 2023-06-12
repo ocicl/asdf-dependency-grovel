@@ -1,0 +1,9 @@
+* asdf-dependency-grovel
+
+Analyse the dependencies in an ASDF system
+
+|---------+--------------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/xcvb/asdf-dependency-grovel.git |
+| commit  | bbd1038                                                            |
+| systems | asdf-dependency-grovel                                             |
+|---------+--------------------------------------------------------------------|
